@@ -1,0 +1,5 @@
+title: OpenLink Ads
+description: Open-source adverstising service for personal websites.
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
