@@ -1,5 +1,5 @@
 # OpenLink
-[NeoLink's](https://googol.neocities.org/neolink/) source code but it's on GitHub.
+[NeoLink's](https://googol.neocities.org/neolink/) source code, rehosted on GitHub.
 
 ## Why?
 Most of the ad services on Neocities ([BannerLink](https://wsmz.gay/#misc-bannerlink), [NavLink](https://dimden.dev/navlinkads/), [ButtonLink](https://anoldnet.ichi.city/button-link/) are based on NeoLink's source code.
