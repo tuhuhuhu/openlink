@@ -19,7 +19,7 @@ To get accepted into OpenLink, you must adhere to the following:
 * Don't use a site builer (WYSIWYG editors and static site generators are fine).
 
 ## Embedding
-To embed it, here's the same code:
+To embed it, here's the sample code:
 
 ```
 <iframe width="180" height="180" style="border:none" src="https://fazlabz-dev.github.io/openlink/embed.html" name="neolink"></iframe>
