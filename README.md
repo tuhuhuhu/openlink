@@ -2,7 +2,7 @@
 [NeoLink's](https://googol.neocities.org/neolink/) source code, rehosted on GitHub.
 
 ## Why?
-Most of the ad services on Neocities ([BannerLink](https://wsmz.gay/#misc-bannerlink), [NavLink](https://dimden.dev/navlinkads/), [ButtonLink](https://anoldnet.ichi.city/button-link/) are based on NeoLink's source code.
+Most of the ad services on Neocities ([BannerLink](https://wsmz.gay/#misc-bannerlink), [NavLink](https://dimden.dev/navlinkads/), [ButtonLink](https://anoldnet.ichi.city/button-link/)) are based on NeoLink's source code.
 
 I made it open-source because I want it to be open for user contributions without needing to send an E-Mail to a webmaster just to add you to the ad service, and because I want other people to make their own ad services as well!
 
