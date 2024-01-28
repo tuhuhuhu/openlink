@@ -30,7 +30,9 @@ To embed it, here's the sample code:
 > NOTE: You can change the width and height of the embed if you want!
 
 ## Contributing
-To add a site, simply [fork](https://github.com/fazlabz-dev/openlink/fork), add links to your site and the ad image (must be hosted on a different file host or placed under `img/` directory), and then make a pull request!
+To add a site, simply [fork](https://github.com/fazlabz-dev/openlink/fork), add links to your site and the ad image, and then make a pull request!
+
+The image must be placed either on the repo's `img/` folder, or using a file host to avoid hotlinking on free Neocities sites.
 
 ## Note
 OpenLink, as well as it's base and the countless modifications are not commercial. Meaning you can't make money from it, sorry about that!
